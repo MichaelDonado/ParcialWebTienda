@@ -125,6 +125,20 @@ const data: Record<TProductId, TProduct> = {
       taste: 'Splendid, is an avocado',
     },
   },
+  t345w49y: {
+    name: 'Fresa Avocado',
+    id: 't345w49y',
+    sku: 'MW79ZZ7Y',
+    price: 1.25,
+    image: '/images/zutano.jpg',
+    attributes: {
+      description:
+        'The fresa avocado is a cold hardy, consistent producing avocado variety. It resembles the Fuerte in appearance but is less flavorful but more cold hardy. The green fruits are obovate in shape with waxy bumps on the skin. The flesh has a low oil but high water content which causes it to have a more fibrous texture.',
+      shape: 'Pear',
+      hardiness: '-5 °C',
+      taste: 'Splendid, is an avocado',
+    },
+  },
 }
 
 export default data

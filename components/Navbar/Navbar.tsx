@@ -20,7 +20,7 @@ const Navbar = () => {
             title="Inicio | Todos los productos"
           >
             <Avocado />
-            Avo Store
+            Fruit Store
           </Menu.Item>
         </Link>
 

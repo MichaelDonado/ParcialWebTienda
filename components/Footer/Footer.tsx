@@ -38,12 +38,12 @@ const Footer = () => (
           </Grid.Column>
 
           <Grid.Column width={7}>
-            <Header as="h4">Hecho para</Header>
-            <p>
+            <Header as="h4">Social</Header>
+            {/* <p>
               <a href="https://github.com/MichaelDonado/ParcialWebTienda">
                 Ingenieria web
               </a>
-            </p>
+            </p> */}
             <List horizontal style={{ display: 'flex' }}>
               {/* <List.Item
                 icon="twitter"
